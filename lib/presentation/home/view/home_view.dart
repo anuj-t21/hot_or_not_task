@@ -26,7 +26,7 @@ class HomeView extends StatelessWidget {
               child: Center(
                 child: Text(
                   'Hot Or Not',
-                  style: AppTextStyles.inter.s16.w5,
+                  style: AppTextStyles.inter.s16.w8,
                 ),
               ),
             ),
